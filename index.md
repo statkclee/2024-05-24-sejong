@@ -4,7 +4,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "Sejong University"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "서울특별시 광진구 능동로 209(군자동) 광개토관 209호"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "서울특별시 광진구 능동로 209(군자동) 율곡관 201호"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "kr"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "ko"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "37.550106"      # decimal latitude of workshop venue (use https://www.latlong.net/)
